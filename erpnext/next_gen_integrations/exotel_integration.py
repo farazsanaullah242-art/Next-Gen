@@ -1,9 +1,9 @@
 import frappe
 import requests
 
-# api/method/erpnext.erpnext_integrations.exotel_integration.handle_incoming_call
-# api/method/erpnext.erpnext_integrations.exotel_integration.handle_end_call
-# api/method/erpnext.erpnext_integrations.exotel_integration.handle_missed_call
+# api/method/erpnext.next_gen_integrations.exotel_integration.handle_incoming_call
+# api/method/erpnext.next_gen_integrations.exotel_integration.handle_end_call
+# api/method/erpnext.next_gen_integrations.exotel_integration.handle_missed_call
 
 
 @frappe.whitelist(allow_guest=True)
